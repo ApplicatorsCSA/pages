@@ -33,6 +33,8 @@ exclude:
   - _notebooks
   - _docx
   - venv
+  - node_modules
+  - api-backend/node_modules
 
 
 # Build settings
